@@ -1,0 +1,5 @@
+ROOK:      KNIGHT:      BISHOP:      QUEEN:      KING:      PAWN:
+
+[_|_]      \\_            !          V~V~V       [_+_]       .O.
+  |        vv o         (_*_)        [|\|]       vxVxv      (._.)
+__|__      vv  \        _(O)_        _[|]_       _(X)_      _____
